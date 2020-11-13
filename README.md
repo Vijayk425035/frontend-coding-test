@@ -1,3 +1,9 @@
-# react-bxdbmm
+## setup
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-bxdbmm)
+# install 
+
+npm install
+
+# run
+
+npm start
