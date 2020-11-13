@@ -1,9 +1,9 @@
-## setup
+# setup
 
-# install 
+## install 
 
 npm install
 
-# run
+## run
 
 npm start
